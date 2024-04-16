@@ -100,6 +100,7 @@ $(function(){
       }
     ]
   });
+  
   $('.additions__like').slick({
     slidesToShow: 4,
     arrows: false,
