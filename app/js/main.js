@@ -1,3 +1,5 @@
+lazyload();
+
 //search 
 
 let searchBtn = document.querySelector('.header__search-btn');

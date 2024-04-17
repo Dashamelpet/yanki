@@ -29,6 +29,7 @@
   "dependencies": {
     "imask": "^7.5.0",
     "jquery": "^3.7.1",
+    "lazyload": "^2.0.0-rc.2",
     "slick-carousel": "^1.8.1"
   }
 }
